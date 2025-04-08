@@ -50,7 +50,7 @@
     "mustache": "4.2.0",
     "parse": "4.0.1",
     "path-to-regexp": "0.1.7",
-    "pg-monitor": "1.5.0",
+    "pg-monitor": "3.0.0",
     "pg-promise": "10.12.1",
     "pluralize": "8.0.0",
     "redis": "4.0.6",
